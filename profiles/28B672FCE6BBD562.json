@@ -1,0 +1,15 @@
+{
+  "icon": "",
+  "description": "Guru of non-custodial staking. Professional node running, low fees, best uptime and 24/7 customer support.",
+  "socials": {
+    "email": "security@nodes.guru",
+    "website": "https://nodes.guru/staking",
+    "github": "https://github.com/nodesguru",
+    "twitter": "https://x.com/NodesGuru",
+    "telegram": "https://t.me/NodesGuruStake",
+    "discord": ""
+  },
+  "addresses": [
+    "storyvaloper18fru7pm6mdtgqlfttwxl3d3mwv2nevhtsfl8wh"
+  ]
+}
