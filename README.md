@@ -1,4 +1,4 @@
-# Explorer Validator Profile-
+# Explorer Validator Profiles
 
 Submitting a profile here is **optional** (if we can use the on-chain data - we'll use the on-chain way). However, for some networks (e.g., [Story](https://story.explorers.guru)), this is the only way to display additional validator information.
 
