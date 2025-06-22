@@ -1,0 +1,15 @@
+{
+  "icon": "https://cyphernetworks.xyz/assets/logo.png",
+  "description": "Cypher Networks operates multi-chain validator infrastructure across multiple emerging networks. We provide high-availability, secure, and performance-optimized validator services with a long-term commitment to decentralization and network stability.",
+  "socials": {
+    "email": "blake@cyphernetworks.xyz",
+    "website": "https://cyphernetworks.xyz",
+    "github": "https://github.com/CulperCypher",
+    "twitter": "https://x.com/CypherInfra",
+    "telegram": "https://t.me/+elByJUwIZihhMGRh",
+    "discord": "https://discord.gg/Wc9bd8Kz"
+  },
+  "addresses": [
+    "bbnvaloper10d28ddwt4jzjae66x9fmm9t80p9dh7zcc9e86c"
+  ]
+}
