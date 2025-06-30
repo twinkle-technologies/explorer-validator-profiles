@@ -1,0 +1,14 @@
+{
+  "icon": "https://raw.githubusercontent.com/NodesGuru/explorer-validator-profiles/main/images/AC013C6C3ED3B69A.png",
+  "description": "Spider Node has over a year of experience in supporting both testnet and mainnet blockchain networks.",
+  "socials": {
+    "email": "hello@spidernode.net",
+    "website": "https://spidernode.net/",
+    "github": "https://github.com/coha05",
+    "twitter": "https://x.com/spider_node_",
+    "discord": "coha05"
+  },
+  "addresses": [
+    "storyvaloper1uzxq463d4xdkdr5py86djgh03ghrhzssdpsfhg"
+  ]
+}
