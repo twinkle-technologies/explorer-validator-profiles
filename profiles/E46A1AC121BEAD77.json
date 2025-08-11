@@ -1,0 +1,13 @@
+{
+  "icon": "https://raw.githubusercontent.com/NodesGuru/explorer-validator-profiles/main/images/E46A1AC121BEAD77.png",
+  "description": "Vietnam's largest community validator, offering validation services, educational resources, and market penetration in the Vietnamese crypto market.",
+  "socials": {
+    "email": "hello@tienthuattoan.com",
+    "website": "https://tienthuattoan.com",
+    "github": "https://github.com/ttt-labs",
+    "twitter": "https://x.com/ttt_lab"
+  },
+  "addresses": [
+    "storyvaloper1tfhg0dqgc6r85v9kr92fr7c3nn9sltcl3s86j0"
+  ]
+}
